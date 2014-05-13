@@ -50,9 +50,6 @@ npm_install_or_update grunt-cli
 npm_install_or_update bower
 npm_install_or_update typescript
 npm_install_or_update typescript-tools
-npm_install_or_update gulp
-npm_install_or_update gulp-tsc
-npm_install_or_update gulp-handlebars
 
 
 
